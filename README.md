@@ -1,5 +1,27 @@
-# Let's make a Lisp.
+# Let's Make a Lisp!
 ### A Ruby programming challenge originally created by [Mark Grant](http://github.com/mg50)
+
+### Instructions
+
+#### Begin
+
+```
+git clone git@github.com:rewinfrey/lisp_in_ruby.git
+cd lisp_in_ruby
+```
+
+#### Start the auto test runner
+
+```
+./runtest
+```
+
+#### Add your solution
+
+Your code should be added to `lisp.rb`.
+
+After you have completed the 10 challenges, compare your solution against a provided solution example in `lisp_solution.rb`.
+
 
 ### Challenge 1
 
