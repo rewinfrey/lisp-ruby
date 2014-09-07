@@ -3,7 +3,7 @@
 
 ### Instructions
 
-#### Begin
+#### Checkout the code
 
 ```
 git clone git@github.com:rewinfrey/lisp_in_ruby.git
@@ -22,6 +22,7 @@ Your code should be added to `lisp.rb`.
 
 After you have completed the 10 challenges, compare your solution against a provided solution example in `lisp_solution.rb`.
 
+-----
 
 ### Challenge 1
 
